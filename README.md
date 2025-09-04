@@ -32,6 +32,7 @@ python src/worker.py
 # Terminal 2: Start the producer (WebSocket server)
 python src/producer.py
 ```
+For multiple worker, can just run the first command on multiple terminal
 
 ## Testing
 
